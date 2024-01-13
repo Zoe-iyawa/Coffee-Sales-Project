@@ -11,7 +11,7 @@ The coffee sales dashboard provides the following key features:
 The data used in this project was sourced from a youtuber/data analyst named Mo Chen.
 
 ## Contributing
-Contributions are welcome ! If you have any ideas, suggestions, improvements,please feel free to open an issues or submit a pull request. 
+Contributions are welcome ! If you have any ideas, suggestions, improvements,please feel free to open an issue or submit a pull request. 
 
 ## Acknowledgment
 Specials thanks to @mochen862 for their contribution to the project.
