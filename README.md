@@ -3,7 +3,7 @@ This is a coffee sales dashboard that utilised a coffee sales dataset to provide
 
 ## Dashboard Features
 The coffee sales dashboard provides the following key features:
-1. Total Coffee Sales Overtime : A visual representation of total sales across the years (2019 - 2022). This helps in identifying the top performing product for the each year and growth rate of monthly revenue.
+1. Total Coffee Sales Overtime : A visual representation of total sales across the years (2019 - 2022). This helps in identifying the top performing product each year and growth rate of monthly revenue.
 2. Sale by Country: The total sales produced by each country. This allows you to identify the top performing country.
 3. Top 5 - Insights into the top 5 customers within the year 2019 to 2022. It can also be filtered to a specified year. This can help you reward your loyal customers.
 
